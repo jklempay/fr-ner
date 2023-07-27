@@ -1,3 +1,4 @@
+#!/usr/bin/env python
 from wikidataintegrator import wdi_core
 import pandas as pd
 
