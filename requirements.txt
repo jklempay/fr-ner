@@ -1,0 +1,3 @@
+pandas==2.0.3
+spacy==3.6.0
+wikidataintegrator==0.9.30
