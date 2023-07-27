@@ -1,3 +1,4 @@
+#!/usr/bin/env python
 import spacy
 import os
 import re
