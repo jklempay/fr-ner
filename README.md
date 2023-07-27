@@ -1,2 +1,2 @@
-# fr-ner
- Taking a close look at agencies and chemicals in the Federal Register using NER
+# fr-agency-ner.py
+ This script uses the spacy's entity ruler to detect and link entities based on patterns listed in wikidata.
